@@ -8,7 +8,7 @@ This repository contains the solution for Task 8: Clustering with K-Means, using
 
 ## Tools & Libraries Used
 
-- Python 3.x
+- Python 
 - pandas
 - scikit-learn
 - matplotlib
