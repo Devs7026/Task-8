@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the solution for Task 8: Clustering with K-Means, using the Mall Customers dataset. The objective is to perform unsupervised learning to segment customers based on their annual income and spending score, and to evaluate the quality of clustering using common metrics and visualization techniques[1].
+This repository contains the solution for Task 8: Clustering with K-Means, using the Mall Customers dataset. The objective is to perform unsupervised learning to segment customers based on their annual income and spending score, and to evaluate the quality of clustering using common metrics and visualization techniques.
 
 ---
 
